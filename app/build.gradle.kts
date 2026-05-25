@@ -13,7 +13,7 @@ android {
     defaultConfig {
         applicationId = "com.psoft.tetrisgame"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 37
         versionCode = 1
         versionName = "1.0"
 
@@ -60,8 +60,8 @@ android {
 }
 
 dependencies {
-    implementation(project(":domain"))
-    implementation(project(":data"))
+    api(project(":data"))
+    api(project(":domain"))
 
     // Compose
     implementation(platform(libs.androidx.compose.bom.v20260401))
