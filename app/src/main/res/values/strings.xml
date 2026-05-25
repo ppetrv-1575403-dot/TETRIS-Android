@@ -1,0 +1,32 @@
+<resources>
+<string name="app_name">Tetris</string>
+
+<!-- Game UI -->
+<string name="score">Score</string>
+<string name="level">Level</string>
+<string name="lines">Lines</string>
+<string name="next">Next</string>
+<string name="tiltle_tetris">TETRIS</string>
+
+<!-- Menu -->
+<string name="start_game">START GAME</string>
+<string name="how_to_play">HOW TO PLAY</string>
+<string name="game_over">Game Over!</string>
+<string name="your_score">Your score: %d</string>
+<string name="high_score">High score: %d</string>
+<string name="play_again">Play Again</string>
+<string name="pause">Pause</string>
+<string name="resume">Resume</string>
+<string name="close">Close</string>
+
+<!-- Controls -->
+<string name="move_left_right">← →  Move Left/Right</string>
+<string name="rotate">↑     Rotate</string>
+<string name="soft_drop">↓     Soft Drop</string>
+<string name="hard_drop">Space Hard Drop</string>
+<string name="pause_key">P     Pause</string>
+
+<!-- Subtitle -->
+<string name="game_subtitle">Classic Block Puzzle Game</string>
+<string name="paused">PAUSED</string>
+</resources>
